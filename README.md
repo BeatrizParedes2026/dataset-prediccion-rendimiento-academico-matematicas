@@ -19,8 +19,8 @@ La base contiene 10 000 registros y 30 factores considerados para la predicción
 
 La variable objetivo es binaria:
 
-- **0:** desaprobación.
-- **1:** aprobación.
+- **0:** desaprobado.
+- **1:** aprobado.
 
 ## Documentación metodológica
 
